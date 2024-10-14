@@ -3,7 +3,7 @@
 可以想一下怎麼處理SRAM，包括擺什麼資料、怎麼擺、如何存取
 
 > [!TIP]
-> 存gray scale而不是RGB
-> SRAM資料交叉擺放，增加讀取速度
-> 將資料load到register上，加速運算
-> 多的register空間可以拿來存4x4、8x8 gray scale
+> 1. 存gray scale而不是RGB
+> 2. SRAM資料交叉擺放，增加讀取速度
+> 3. 將資料load到register上，加速運算
+> 4. 多的register空間可以拿來存4x4、8x8 gray scale
