@@ -13,3 +13,5 @@ ic lab 2024 fall
 | `Feeling` | 5/10 | /10 | /10 | /10 | /10 | 1/10 | 1/10 | 2/10 |
 | `Rank` | 25/141 | 71/141 | 58/135 | 90/136 | 23/125 | -- | -- | 83/134 |
 | `Score` | 99.13 | 85.11 | 88.44 | 93.46 | 94.72 | 100 | 3 | 81.64 |
+
+考古: https://e.pcloud.link/publink/show?code=kZU1VKZaNtDJVjuKwu1U84XW9X4h0FLd8WV
