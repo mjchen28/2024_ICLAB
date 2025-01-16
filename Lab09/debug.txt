@@ -1,0 +1,512 @@
+@data_no = 0
+Month: 03, Day: 11, A: 1004, B: 0512, C: 0574, D: 0733
+@data_no = 1
+Month: 08, Day: 27, A: 2535, B: 2675, C: 0865, D: 3960
+@data_no = 2
+Month: 11, Day: 10, A: 0587, B: 3930, C: 1443, D: 1075
+@data_no = 3
+Month: 06, Day: 21, A: 2869, B: 1197, C: 0196, D: 2048
+@data_no = 4
+Month: 07, Day: 16, A: 3465, B: 4045, C: 2122, D: 2516
+@data_no = 5
+Month: 01, Day: 19, A: 3952, B: 0645, C: 0116, D: 0280
+@data_no = 6
+Month: 04, Day: 12, A: 3330, B: 2423, C: 0047, D: 1663
+@data_no = 7
+Month: 08, Day: 31, A: 2315, B: 2291, C: 1046, D: 3827
+@data_no = 8
+Month: 08, Day: 26, A: 2530, B: 3937, C: 2749, D: 0392
+@data_no = 9
+Month: 12, Day: 11, A: 1335, B: 0484, C: 3525, D: 1652
+@data_no = 10
+Month: 10, Day: 11, A: 3694, B: 1651, C: 0477, D: 0586
+@data_no = 11
+Month: 11, Day: 21, A: 1871, B: 2795, C: 2727, D: 3015
+@data_no = 12
+Month: 11, Day: 17, A: 1407, B: 3113, C: 1604, D: 2291
+@data_no = 13
+Month: 07, Day: 29, A: 1868, B: 2645, C: 0699, D: 0152
+@data_no = 14
+Month: 10, Day: 25, A: 3238, B: 2854, C: 0899, D: 3826
+@data_no = 15
+Month: 10, Day: 26, A: 3013, B: 1033, C: 2747, D: 0608
+@data_no = 16
+Month: 12, Day: 02, A: 2861, B: 1133, C: 0875, D: 0044
+@data_no = 17
+Month: 02, Day: 16, A: 0748, B: 0893, C: 1058, D: 0359
+@data_no = 18
+Month: 10, Day: 12, A: 1888, B: 1556, C: 1315, D: 2233
+@data_no = 19
+Month: 03, Day: 09, A: 1734, B: 3010, C: 2056, D: 1386
+@data_no = 20
+Month: 02, Day: 21, A: 3839, B: 3754, C: 0154, D: 2011
+@data_no = 21
+Month: 10, Day: 15, A: 2125, B: 1609, C: 1510, D: 2076
+@data_no = 22
+Month: 04, Day: 13, A: 3347, B: 2247, C: 2673, D: 2168
+@data_no = 23
+Month: 04, Day: 10, A: 3229, B: 4016, C: 3750, D: 2607
+@data_no = 24
+Month: 02, Day: 26, A: 0762, B: 1592, C: 2980, D: 1092
+@data_no = 25
+Month: 10, Day: 11, A: 2221, B: 3142, C: 3556, D: 1779
+@data_no = 26
+Month: 01, Day: 09, A: 3544, B: 0041, C: 2418, D: 2006
+@data_no = 27
+Month: 05, Day: 11, A: 3371, B: 0465, C: 1653, D: 1074
+@data_no = 28
+Month: 07, Day: 21, A: 2308, B: 2911, C: 0395, D: 2933
+@data_no = 29
+Month: 09, Day: 28, A: 0103, B: 1121, C: 1060, D: 2827
+@data_no = 30
+Month: 01, Day: 04, A: 0615, B: 3958, C: 2876, D: 2127
+@data_no = 31
+Month: 12, Day: 03, A: 0350, B: 2452, C: 1502, D: 3783
+@data_no = 32
+Month: 04, Day: 05, A: 1322, B: 3751, C: 2921, D: 0266
+@data_no = 33
+Month: 08, Day: 19, A: 1355, B: 3555, C: 2904, D: 2324
+@data_no = 34
+Month: 03, Day: 09, A: 1725, B: 3984, C: 1477, D: 3335
+@data_no = 35
+Month: 01, Day: 08, A: 1411, B: 2016, C: 3554, D: 2132
+@data_no = 36
+Month: 05, Day: 28, A: 1815, B: 0838, C: 2361, D: 1116
+@data_no = 37
+Month: 03, Day: 31, A: 2761, B: 1902, C: 3733, D: 3025
+@data_no = 38
+Month: 01, Day: 18, A: 1953, B: 3337, C: 3627, D: 2292
+@data_no = 39
+Month: 02, Day: 21, A: 1887, B: 1034, C: 0793, D: 2965
+@data_no = 40
+Month: 12, Day: 16, A: 1448, B: 2280, C: 0335, D: 3863
+@data_no = 41
+Month: 07, Day: 30, A: 3290, B: 3973, C: 3952, D: 0854
+@data_no = 42
+Month: 11, Day: 04, A: 0040, B: 2590, C: 2519, D: 1329
+@data_no = 43
+Month: 06, Day: 23, A: 3498, B: 0550, C: 2562, D: 4023
+@data_no = 44
+Month: 09, Day: 30, A: 1201, B: 3927, C: 3938, D: 3952
+@data_no = 45
+Month: 07, Day: 26, A: 1338, B: 0566, C: 2462, D: 2088
+@data_no = 46
+Month: 05, Day: 25, A: 3297, B: 4027, C: 1969, D: 2027
+@data_no = 47
+Month: 10, Day: 26, A: 3751, B: 2799, C: 3656, D: 0296
+@data_no = 48
+Month: 06, Day: 13, A: 2673, B: 0925, C: 2789, D: 0246
+@data_no = 49
+Month: 06, Day: 12, A: 0543, B: 2035, C: 2096, D: 3869
+@data_no = 50
+Month: 10, Day: 04, A: 0222, B: 1157, C: 0811, D: 0271
+@data_no = 51
+Month: 07, Day: 13, A: 3250, B: 0805, C: 2371, D: 2163
+@data_no = 52
+Month: 10, Day: 27, A: 0208, B: 2577, C: 2649, D: 2531
+@data_no = 53
+Month: 08, Day: 26, A: 2159, B: 2391, C: 1355, D: 3175
+@data_no = 54
+Month: 08, Day: 22, A: 3211, B: 0122, C: 3342, D: 1771
+@data_no = 55
+Month: 08, Day: 07, A: 0430, B: 2355, C: 0682, D: 3601
+@data_no = 56
+Month: 12, Day: 30, A: 0786, B: 1550, C: 0929, D: 0730
+@data_no = 57
+Month: 09, Day: 26, A: 1628, B: 3690, C: 3996, D: 0481
+@data_no = 58
+Month: 01, Day: 31, A: 2803, B: 2568, C: 1609, D: 2001
+@data_no = 59
+Month: 11, Day: 16, A: 0635, B: 2083, C: 0377, D: 3929
+@data_no = 60
+Month: 02, Day: 26, A: 2638, B: 2956, C: 0716, D: 4092
+@data_no = 61
+Month: 11, Day: 19, A: 0498, B: 0763, C: 3143, D: 2885
+@data_no = 62
+Month: 11, Day: 22, A: 0986, B: 1913, C: 2755, D: 0697
+@data_no = 63
+Month: 01, Day: 01, A: 1758, B: 1115, C: 0673, D: 0165
+@data_no = 64
+Month: 01, Day: 31, A: 3163, B: 0152, C: 3620, D: 1810
+@data_no = 65
+Month: 01, Day: 26, A: 2750, B: 0194, C: 1126, D: 3900
+@data_no = 66
+Month: 07, Day: 04, A: 3759, B: 2940, C: 3990, D: 0651
+@data_no = 67
+Month: 03, Day: 06, A: 1472, B: 2151, C: 2101, D: 1424
+@data_no = 68
+Month: 09, Day: 03, A: 3325, B: 3092, C: 3536, D: 1700
+@data_no = 69
+Month: 12, Day: 13, A: 3184, B: 0154, C: 2798, D: 1234
+@data_no = 70
+Month: 06, Day: 12, A: 1825, B: 2656, C: 1665, D: 3482
+@data_no = 71
+Month: 12, Day: 16, A: 0093, B: 0454, C: 1428, D: 0586
+@data_no = 72
+Month: 02, Day: 20, A: 1054, B: 3792, C: 1929, D: 4040
+@data_no = 73
+Month: 08, Day: 03, A: 2125, B: 2724, C: 2618, D: 2907
+@data_no = 74
+Month: 01, Day: 20, A: 3198, B: 2586, C: 3111, D: 0495
+@data_no = 75
+Month: 09, Day: 08, A: 0940, B: 1950, C: 0052, D: 0741
+@data_no = 76
+Month: 05, Day: 23, A: 0517, B: 0611, C: 2593, D: 3169
+@data_no = 77
+Month: 08, Day: 08, A: 4043, B: 2127, C: 2674, D: 2420
+@data_no = 78
+Month: 11, Day: 05, A: 3070, B: 0586, C: 0003, D: 2889
+@data_no = 79
+Month: 04, Day: 28, A: 3469, B: 3784, C: 2339, D: 3261
+@data_no = 80
+Month: 08, Day: 13, A: 2455, B: 1528, C: 2950, D: 1510
+@data_no = 81
+Month: 03, Day: 05, A: 3954, B: 1248, C: 1204, D: 0657
+@data_no = 82
+Month: 01, Day: 06, A: 2011, B: 1066, C: 0192, D: 1877
+@data_no = 83
+Month: 03, Day: 15, A: 3830, B: 4037, C: 0272, D: 0628
+@data_no = 84
+Month: 07, Day: 07, A: 2067, B: 3220, C: 0895, D: 3936
+@data_no = 85
+Month: 10, Day: 21, A: 0502, B: 2963, C: 0508, D: 3881
+@data_no = 86
+Month: 04, Day: 18, A: 0709, B: 2874, C: 3891, D: 2120
+@data_no = 87
+Month: 12, Day: 13, A: 3974, B: 2119, C: 0136, D: 2565
+@data_no = 88
+Month: 09, Day: 24, A: 2482, B: 2613, C: 0159, D: 2437
+@data_no = 89
+Month: 09, Day: 05, A: 3376, B: 0872, C: 0207, D: 1722
+@data_no = 90
+Month: 09, Day: 25, A: 3932, B: 4076, C: 2345, D: 1955
+@data_no = 91
+Month: 03, Day: 19, A: 1151, B: 0649, C: 1283, D: 0059
+@data_no = 92
+Month: 05, Day: 09, A: 1984, B: 0257, C: 1670, D: 3096
+@data_no = 93
+Month: 04, Day: 22, A: 3129, B: 2443, C: 3067, D: 3567
+@data_no = 94
+Month: 06, Day: 24, A: 3721, B: 0265, C: 3891, D: 3745
+@data_no = 95
+Month: 12, Day: 01, A: 1153, B: 2246, C: 1974, D: 3862
+@data_no = 96
+Month: 08, Day: 26, A: 1306, B: 2899, C: 0278, D: 2805
+@data_no = 97
+Month: 07, Day: 22, A: 2205, B: 1890, C: 0742, D: 3249
+@data_no = 98
+Month: 11, Day: 10, A: 2473, B: 4003, C: 1595, D: 1368
+@data_no = 99
+Month: 10, Day: 28, A: 3542, B: 3653, C: 3793, D: 2297
+@data_no = 100
+Month: 01, Day: 23, A: 0365, B: 2674, C: 1268, D: 3448
+@data_no = 101
+Month: 09, Day: 13, A: 2185, B: 1035, C: 2741, D: 2718
+@data_no = 102
+Month: 08, Day: 03, A: 1011, B: 1490, C: 3891, D: 2411
+@data_no = 103
+Month: 06, Day: 20, A: 0561, B: 1737, C: 0487, D: 1587
+@data_no = 104
+Month: 01, Day: 13, A: 0110, B: 0791, C: 3995, D: 2119
+@data_no = 105
+Month: 02, Day: 10, A: 2201, B: 0676, C: 2776, D: 1201
+@data_no = 106
+Month: 09, Day: 23, A: 2948, B: 3833, C: 2270, D: 3723
+@data_no = 107
+Month: 07, Day: 30, A: 0095, B: 0259, C: 0580, D: 1589
+@data_no = 108
+Month: 09, Day: 02, A: 0106, B: 1720, C: 3584, D: 0988
+@data_no = 109
+Month: 12, Day: 13, A: 1783, B: 3058, C: 1470, D: 2051
+@data_no = 110
+Month: 07, Day: 01, A: 2773, B: 2846, C: 2173, D: 1328
+@data_no = 111
+Month: 04, Day: 13, A: 0108, B: 3398, C: 3262, D: 0630
+@data_no = 112
+Month: 02, Day: 23, A: 3136, B: 0550, C: 1089, D: 2123
+@data_no = 113
+Month: 08, Day: 27, A: 3157, B: 1444, C: 0121, D: 0054
+@data_no = 114
+Month: 11, Day: 16, A: 3530, B: 0345, C: 1546, D: 0505
+@data_no = 115
+Month: 03, Day: 22, A: 0554, B: 0631, C: 0449, D: 3316
+@data_no = 116
+Month: 02, Day: 09, A: 0365, B: 1035, C: 0278, D: 1259
+@data_no = 117
+Month: 09, Day: 08, A: 1107, B: 2706, C: 2128, D: 2580
+@data_no = 118
+Month: 04, Day: 11, A: 0533, B: 1699, C: 1997, D: 2903
+@data_no = 119
+Month: 07, Day: 11, A: 3640, B: 1491, C: 3103, D: 3709
+@data_no = 120
+Month: 03, Day: 31, A: 0812, B: 3949, C: 3876, D: 2063
+@data_no = 121
+Month: 11, Day: 30, A: 2853, B: 2177, C: 0628, D: 3151
+@data_no = 122
+Month: 07, Day: 16, A: 2770, B: 4052, C: 3932, D: 0468
+@data_no = 123
+Month: 01, Day: 26, A: 3250, B: 3855, C: 2846, D: 1911
+@data_no = 124
+Month: 07, Day: 02, A: 3434, B: 3166, C: 1117, D: 1859
+@data_no = 125
+Month: 10, Day: 04, A: 1606, B: 3327, C: 3993, D: 1443
+@data_no = 126
+Month: 01, Day: 14, A: 2526, B: 0240, C: 0411, D: 3642
+@data_no = 127
+Month: 09, Day: 04, A: 0766, B: 0180, C: 3573, D: 4085
+@data_no = 128
+Month: 02, Day: 27, A: 0798, B: 1377, C: 2163, D: 3964
+@data_no = 129
+Month: 09, Day: 16, A: 1397, B: 3891, C: 0024, D: 2422
+@data_no = 130
+Month: 12, Day: 30, A: 3528, B: 3906, C: 3631, D: 0700
+@data_no = 131
+Month: 12, Day: 18, A: 0452, B: 1925, C: 3490, D: 2760
+@data_no = 132
+Month: 12, Day: 26, A: 1803, B: 2627, C: 3944, D: 1325
+@data_no = 133
+Month: 12, Day: 31, A: 2988, B: 1927, C: 2753, D: 2347
+@data_no = 134
+Month: 09, Day: 05, A: 0538, B: 3367, C: 1577, D: 2495
+@data_no = 135
+Month: 11, Day: 20, A: 1869, B: 2700, C: 2216, D: 0530
+@data_no = 136
+Month: 06, Day: 14, A: 4093, B: 3623, C: 1859, D: 1844
+@data_no = 137
+Month: 05, Day: 20, A: 2329, B: 1375, C: 1438, D: 1167
+@data_no = 138
+Month: 11, Day: 07, A: 1260, B: 0572, C: 1469, D: 3587
+@data_no = 139
+Month: 10, Day: 29, A: 0960, B: 1332, C: 0858, D: 3455
+@data_no = 140
+Month: 08, Day: 25, A: 1293, B: 3945, C: 3581, D: 0947
+@data_no = 141
+Month: 12, Day: 01, A: 0045, B: 1932, C: 2522, D: 2340
+@data_no = 142
+Month: 03, Day: 25, A: 1210, B: 1903, C: 3651, D: 2077
+@data_no = 143
+Month: 02, Day: 19, A: 2185, B: 3251, C: 4049, D: 2203
+@data_no = 144
+Month: 11, Day: 17, A: 0785, B: 3206, C: 1379, D: 0457
+@data_no = 145
+Month: 01, Day: 08, A: 2126, B: 3139, C: 3644, D: 2448
+@data_no = 146
+Month: 09, Day: 11, A: 2152, B: 3013, C: 1071, D: 1965
+@data_no = 147
+Month: 11, Day: 13, A: 1776, B: 1765, C: 1391, D: 2120
+@data_no = 148
+Month: 12, Day: 31, A: 2153, B: 0504, C: 1593, D: 0244
+@data_no = 149
+Month: 08, Day: 17, A: 0781, B: 0721, C: 0625, D: 0284
+@data_no = 150
+Month: 11, Day: 23, A: 2524, B: 2789, C: 0298, D: 2165
+@data_no = 151
+Month: 01, Day: 06, A: 3051, B: 2497, C: 0218, D: 3440
+@data_no = 152
+Month: 06, Day: 01, A: 0519, B: 3447, C: 2135, D: 1801
+@data_no = 153
+Month: 08, Day: 15, A: 2916, B: 0329, C: 3485, D: 2082
+@data_no = 154
+Month: 09, Day: 20, A: 3015, B: 0507, C: 3429, D: 1509
+@data_no = 155
+Month: 04, Day: 05, A: 1928, B: 2974, C: 4036, D: 4037
+@data_no = 156
+Month: 03, Day: 03, A: 3614, B: 2251, C: 0112, D: 0239
+@data_no = 157
+Month: 11, Day: 04, A: 1295, B: 0490, C: 3718, D: 0057
+@data_no = 158
+Month: 04, Day: 19, A: 3867, B: 4061, C: 2484, D: 2577
+@data_no = 159
+Month: 04, Day: 09, A: 3106, B: 0411, C: 0685, D: 0016
+@data_no = 160
+Month: 08, Day: 07, A: 2424, B: 2038, C: 0030, D: 1412
+@data_no = 161
+Month: 04, Day: 13, A: 1080, B: 3261, C: 2446, D: 1002
+@data_no = 162
+Month: 09, Day: 19, A: 2220, B: 2038, C: 0851, D: 0482
+@data_no = 163
+Month: 01, Day: 15, A: 4017, B: 1376, C: 3305, D: 0888
+@data_no = 164
+Month: 11, Day: 19, A: 1740, B: 0303, C: 1743, D: 2300
+@data_no = 165
+Month: 03, Day: 10, A: 3491, B: 0270, C: 1571, D: 3115
+@data_no = 166
+Month: 03, Day: 09, A: 0178, B: 1980, C: 3095, D: 2883
+@data_no = 167
+Month: 10, Day: 17, A: 0475, B: 0260, C: 3580, D: 2452
+@data_no = 168
+Month: 04, Day: 12, A: 0441, B: 1420, C: 3965, D: 2620
+@data_no = 169
+Month: 03, Day: 05, A: 3966, B: 0167, C: 1927, D: 3325
+@data_no = 170
+Month: 02, Day: 26, A: 2632, B: 2062, C: 1373, D: 3922
+@data_no = 171
+Month: 09, Day: 11, A: 3253, B: 1931, C: 0260, D: 1532
+@data_no = 172
+Month: 11, Day: 20, A: 1512, B: 2183, C: 2062, D: 1191
+@data_no = 173
+Month: 07, Day: 19, A: 2957, B: 3945, C: 2966, D: 0568
+@data_no = 174
+Month: 09, Day: 11, A: 0101, B: 3570, C: 2317, D: 1648
+@data_no = 175
+Month: 07, Day: 30, A: 3026, B: 3347, C: 0742, D: 3168
+@data_no = 176
+Month: 10, Day: 21, A: 1647, B: 1743, C: 1253, D: 0788
+@data_no = 177
+Month: 04, Day: 03, A: 0808, B: 1169, C: 3201, D: 0105
+@data_no = 178
+Month: 09, Day: 02, A: 0625, B: 3294, C: 3701, D: 0846
+@data_no = 179
+Month: 04, Day: 10, A: 1329, B: 2335, C: 1450, D: 3138
+@data_no = 180
+Month: 04, Day: 24, A: 3530, B: 1722, C: 0295, D: 2764
+@data_no = 181
+Month: 10, Day: 31, A: 2545, B: 0809, C: 0484, D: 0551
+@data_no = 182
+Month: 03, Day: 20, A: 3809, B: 1181, C: 2915, D: 0880
+@data_no = 183
+Month: 12, Day: 12, A: 3428, B: 3797, C: 0128, D: 0557
+@data_no = 184
+Month: 10, Day: 07, A: 1687, B: 1692, C: 0417, D: 1395
+@data_no = 185
+Month: 09, Day: 29, A: 3218, B: 3266, C: 2167, D: 3982
+@data_no = 186
+Month: 10, Day: 05, A: 3156, B: 1995, C: 1581, D: 3907
+@data_no = 187
+Month: 10, Day: 07, A: 0941, B: 0277, C: 2524, D: 2880
+@data_no = 188
+Month: 03, Day: 09, A: 2320, B: 3742, C: 1146, D: 0505
+@data_no = 189
+Month: 06, Day: 06, A: 2408, B: 1386, C: 0547, D: 0157
+@data_no = 190
+Month: 07, Day: 11, A: 0131, B: 0783, C: 3153, D: 2756
+@data_no = 191
+Month: 12, Day: 09, A: 3485, B: 2774, C: 1937, D: 1382
+@data_no = 192
+Month: 11, Day: 23, A: 1834, B: 0840, C: 3734, D: 2091
+@data_no = 193
+Month: 11, Day: 18, A: 2236, B: 2038, C: 0955, D: 1467
+@data_no = 194
+Month: 01, Day: 13, A: 0960, B: 0730, C: 3873, D: 0948
+@data_no = 195
+Month: 05, Day: 10, A: 1165, B: 1177, C: 0841, D: 2871
+@data_no = 196
+Month: 10, Day: 24, A: 3680, B: 3398, C: 3866, D: 0366
+@data_no = 197
+Month: 01, Day: 25, A: 3586, B: 3580, C: 1371, D: 2347
+@data_no = 198
+Month: 10, Day: 25, A: 3919, B: 2401, C: 2240, D: 0500
+@data_no = 199
+Month: 10, Day: 06, A: 1223, B: 2388, C: 1297, D: 2645
+@data_no = 200
+Month: 01, Day: 03, A: 1441, B: 1366, C: 0987, D: 0621
+@data_no = 201
+Month: 02, Day: 06, A: 2223, B: 1753, C: 0852, D: 2078
+@data_no = 202
+Month: 04, Day: 04, A: 0991, B: 0382, C: 2142, D: 0144
+@data_no = 203
+Month: 08, Day: 31, A: 1833, B: 4006, C: 3101, D: 3191
+@data_no = 204
+Month: 02, Day: 03, A: 0559, B: 3186, C: 2987, D: 1946
+@data_no = 205
+Month: 10, Day: 24, A: 2719, B: 0519, C: 0262, D: 3622
+@data_no = 206
+Month: 12, Day: 01, A: 2794, B: 4071, C: 1954, D: 0230
+@data_no = 207
+Month: 07, Day: 16, A: 1543, B: 0554, C: 2240, D: 1812
+@data_no = 208
+Month: 10, Day: 07, A: 0736, B: 0109, C: 0449, D: 0693
+@data_no = 209
+Month: 01, Day: 14, A: 1381, B: 1884, C: 2151, D: 3936
+@data_no = 210
+Month: 08, Day: 20, A: 2157, B: 0467, C: 0433, D: 2842
+@data_no = 211
+Month: 05, Day: 14, A: 0889, B: 0098, C: 3713, D: 1097
+@data_no = 212
+Month: 01, Day: 18, A: 2164, B: 0658, C: 0561, D: 1846
+@data_no = 213
+Month: 11, Day: 05, A: 0342, B: 2646, C: 3379, D: 3463
+@data_no = 214
+Month: 05, Day: 21, A: 0212, B: 0494, C: 1528, D: 0293
+@data_no = 215
+Month: 12, Day: 03, A: 3136, B: 3808, C: 0977, D: 0610
+@data_no = 216
+Month: 02, Day: 02, A: 3246, B: 3180, C: 2032, D: 3694
+@data_no = 217
+Month: 02, Day: 25, A: 1081, B: 1148, C: 1866, D: 3111
+@data_no = 218
+Month: 10, Day: 29, A: 0392, B: 3556, C: 3935, D: 0593
+@data_no = 219
+Month: 06, Day: 06, A: 2006, B: 2848, C: 0629, D: 0274
+@data_no = 220
+Month: 11, Day: 05, A: 0947, B: 0527, C: 3881, D: 0436
+@data_no = 221
+Month: 10, Day: 22, A: 2640, B: 0377, C: 2360, D: 1145
+@data_no = 222
+Month: 06, Day: 11, A: 0983, B: 0318, C: 4021, D: 3522
+@data_no = 223
+Month: 11, Day: 24, A: 0738, B: 1484, C: 1859, D: 2802
+@data_no = 224
+Month: 10, Day: 14, A: 2133, B: 0562, C: 3117, D: 4050
+@data_no = 225
+Month: 09, Day: 03, A: 0162, B: 1391, C: 1513, D: 0618
+@data_no = 226
+Month: 10, Day: 01, A: 1162, B: 0153, C: 4078, D: 4014
+@data_no = 227
+Month: 06, Day: 12, A: 0024, B: 3244, C: 3261, D: 2104
+@data_no = 228
+Month: 01, Day: 19, A: 2276, B: 1336, C: 4057, D: 3801
+@data_no = 229
+Month: 07, Day: 02, A: 1374, B: 3671, C: 2506, D: 0126
+@data_no = 230
+Month: 10, Day: 10, A: 0680, B: 0013, C: 1287, D: 3275
+@data_no = 231
+Month: 03, Day: 26, A: 0239, B: 2770, C: 3357, D: 0740
+@data_no = 232
+Month: 01, Day: 04, A: 3854, B: 1828, C: 0587, D: 1239
+@data_no = 233
+Month: 11, Day: 25, A: 3735, B: 1603, C: 3481, D: 1824
+@data_no = 234
+Month: 11, Day: 01, A: 3716, B: 2977, C: 1183, D: 0034
+@data_no = 235
+Month: 02, Day: 21, A: 1353, B: 3754, C: 1433, D: 2571
+@data_no = 236
+Month: 09, Day: 08, A: 2154, B: 1260, C: 0445, D: 2044
+@data_no = 237
+Month: 09, Day: 13, A: 0465, B: 1985, C: 2603, D: 1544
+@data_no = 238
+Month: 04, Day: 11, A: 1830, B: 0479, C: 0739, D: 1485
+@data_no = 239
+Month: 10, Day: 28, A: 1729, B: 3164, C: 2284, D: 2631
+@data_no = 240
+Month: 07, Day: 12, A: 0518, B: 0120, C: 2103, D: 4085
+@data_no = 241
+Month: 01, Day: 28, A: 3025, B: 2469, C: 2222, D: 0274
+@data_no = 242
+Month: 02, Day: 27, A: 3523, B: 1265, C: 3325, D: 0261
+@data_no = 243
+Month: 03, Day: 14, A: 2986, B: 3919, C: 3665, D: 0353
+@data_no = 244
+Month: 07, Day: 21, A: 1249, B: 0281, C: 2399, D: 1164
+@data_no = 245
+Month: 06, Day: 08, A: 1232, B: 2881, C: 2063, D: 0479
+@data_no = 246
+Month: 09, Day: 21, A: 0684, B: 0904, C: 3229, D: 1093
+@data_no = 247
+Month: 12, Day: 24, A: 2845, B: 0870, C: 2510, D: 2236
+@data_no = 248
+Month: 03, Day: 07, A: 3687, B: 1034, C: 2668, D: 2717
+@data_no = 249
+Month: 09, Day: 26, A: 0430, B: 3596, C: 0475, D: 2304
+@data_no = 250
+Month: 02, Day: 23, A: 0657, B: 3988, C: 0951, D: 3374
+@data_no = 251
+Month: 07, Day: 26, A: 0147, B: 2587, C: 3089, D: 3687
+@data_no = 252
+Month: 09, Day: 15, A: 0025, B: 2745, C: 1063, D: 0355
+@data_no = 253
+Month: 09, Day: 12, A: 1275, B: 3451, C: 2328, D: 0425
+@data_no = 254
+Month: 02, Day: 02, A: 1273, B: 3145, C: 0274, D: 2257
+@data_no = 255
+Month: 06, Day: 20, A: 1978, B: 2694, C: 2809, D: 3295
